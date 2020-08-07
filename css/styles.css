@@ -1,5 +1,9 @@
-.about-me {
+.top {
+  text-align: center;
+}
 
+.about-me {
+text-align: center;
 }
 
 h2 {
@@ -7,5 +11,13 @@ h2 {
 }
 
 .repo {
-  
+
+}
+
+.projects {
+
+}
+
+.learning {
+
 }
