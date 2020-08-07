@@ -8,16 +8,27 @@ h2 {
 }
 
 .learning {
-
+  background-color: floralwhite;
+  padding: 10px;
+  border-style: double;
+  border-color: black; 
 }
 
 .top {
   text-align: center;
+  background-color: floralwhite;
+  margin: 10px;
+  padding: 10px;
+  border-style: double;
+  border-color: black;
+  float: initial;
 }
 
 .projects {
   background-color: floralwhite;
   padding: 10px;
+  border-style: double;
+  border-color: black;
 }
 
 .projects p {
@@ -32,6 +43,7 @@ h2 {
 }
 
 .about-me {
+  float: inline-end;
   text-align: center;
   background-color: floralwhite;
   padding: 10px;
