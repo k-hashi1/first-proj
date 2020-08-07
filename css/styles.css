@@ -3,16 +3,21 @@ body {
   margin: 20px
 }
 
+h2 {
+
+}
+
+.learning {
+
+}
+
 .top {
   text-align: center;
 }
 
-.about-me {
-text-align: center;
-}
-
 .projects {
   background-color: floralwhite;
+  padding: 10px;
 }
 
 .projects p {
@@ -26,18 +31,11 @@ text-align: center;
   font-size: larger;
 }
 
-h2 {
-
-}
-
-.repo {
-
-}
-
-.projects {
-
-}
-
-.learning {
-
-}
+.about-me {
+  text-align: center;
+  background-color: floralwhite;
+  padding: 10px;
+  border: 5px;
+  border-color: black;
+  border-style: double;
+  }
